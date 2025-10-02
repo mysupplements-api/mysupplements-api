@@ -25,7 +25,7 @@ DB: List[Product] = [
         
 product_url="https://mysupplements.ch/collections/himalaya-shilajit/products/himalaya-shilajit-harz",
         
-image_url="https://mysupplements.ch/cdn/shop/files/himalaya-shilajit-harz.jpg",
+image_url="https://cdn.shopify.com/s/files/1/0915/9891/3865/files/Golden.png?v=1752315616",
         mpn="MS-SHIL-50",
         country="CH",
     ),
@@ -37,18 +37,18 @@ image_url="https://mysupplements.ch/cdn/shop/files/himalaya-shilajit-harz.jpg",
         
 product_url="https://mysupplements.ch/collections/longevity/products/mysupplements-nmn-resveratrol-zellenergie-langlebigkeit",
         
-image_url="https://mysupplements.ch/cdn/shop/files/nmn-resveratrol.jpg",
+image_url="https://cdn.shopify.com/s/files/1/0915/9891/3865/files/17C0ED8D-FA81-414B-9A6A-22A54ED7E802.jpg?v=1752592972",
         mpn="MS-NMN-RES-60",
         country="CH",
     ),
     Product(
         id="MS-SPERM-90",
-        title="Spermidin Kapseln – 90 Stück",
+        title="Spermidin Kapseln – 60 Stück",
         price=27.90,
         currency="CHF",
         
 product_url="https://mysupplements.ch/collections/longevity/products/spermidin",
-        image_url="https://mysupplements.ch/cdn/shop/files/spermidin.jpg",
+        image_url="https://cdn.shopify.com/s/files/1/0915/9891/3865/files/7AA08625-D373-44AC-B2F0-E95F46CBD0BD.jpg?v=1752315358",
         mpn="MS-SPERM-90",
         country="CH",
     ),
